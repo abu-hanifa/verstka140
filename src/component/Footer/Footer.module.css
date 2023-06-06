@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 300px; */
+    width: 770px;
+    height: 76px;
+    align-items: center;
+    /* background: #F27C0F4D; */
+    margin-top: 11px;
+
+
+}
+.img {
+    display: flex;
+    align-items: center;
+}
+.buts {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+    
+}

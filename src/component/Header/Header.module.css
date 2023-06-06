@@ -1,0 +1,29 @@
+.logo {
+    /* background: #F00E0E1A; */
+    width: 27%;
+
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 770px;
+    /* margin-left: 300px; */
+}
+.meny {
+    display: flex;
+    justify-content: right;
+    width: 73%;
+    /* background: #00A43817; */
+    
+
+    
+}
+.glavnaya {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    justify-content: space-between;
+    font-size: 18px;
+    
+    
+}
